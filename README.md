@@ -1,4 +1,4 @@
-This is a comparison of responsive websites
+# This is a comparison of responsive websites
 
 Comparison of some responsive designs
 
