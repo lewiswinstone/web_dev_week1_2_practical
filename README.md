@@ -1,4 +1,4 @@
-# web_dev_week1_2_practical
+This is a comparison of responsive websites
 
 Comparison of some responsive designs
 
