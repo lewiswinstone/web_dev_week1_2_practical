@@ -11,4 +11,8 @@ Comparison of some responsive designs
   
   <h1> this is bad </h1>
 
+## This is how we include an image
+![This is an image](Desert.jpg)
+>> <sub> this is from the desktop </sub>
+
 ```
